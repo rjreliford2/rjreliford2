@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.S. Game Design and Development
+B.S. Game Design and Development<br>
 🔭 I’m currently working on some personal video game projects<br>👯 I’m looking to collaborate on any type of projects as I am always looking to expand my skill set<br>🌱 I’m currently learning Go<br>💬 Ask me about anything at all I love talking about sports, nature, video games, movies!<br>⚡ Fun fact: I am a professional Actor and Semi Pro Soccer Player
 
 
